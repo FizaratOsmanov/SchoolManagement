@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|solutionrelative:school.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|solutionrelative:school.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6168BB9C-6516-4C55-8F19-9916E7E86728}|School.Data\\School.Data.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6168BB9C-6516-4C55-8F19-9916E7E86728}|School.Data\\School.Data.csproj|solutionrelative:school.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9268F09F-2682-409C-AE40-D163BF945EE2}|School.Api\\School.Api.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9268F09F-2682-409C-AE40-D163BF945EE2}|School.Api\\School.Api.csproj|solutionrelative:school.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9268F09F-2682-409C-AE40-D163BF945EE2}|School.Api\\School.Api.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9268F09F-2682-409C-AE40-D163BF945EE2}|School.Api\\School.Api.csproj|solutionrelative:school.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|solutionrelative:school.core\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.core\\entities\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|solutionrelative:school.core\\entities\\base\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|c:\\users\\lenovo\\source\\repos\\schoolmanagement\\school.core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA07573A-96F6-4BD8-A2D1-7955614193A0}|School.Core\\School.Core.csproj|solutionrelative:school.core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 618,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Api\\Program.cs",
+              "RelativeDocumentMoniker": "School.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Api\\Program.cs",
+              "RelativeToolTip": "School.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:33:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "School.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "School.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:17:31.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "School.Core\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Group.cs*",
+              "RelativeToolTip": "School.Core\\Entities\\Group.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:06:33.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "School.Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Student.cs",
+              "RelativeToolTip": "School.Core\\Entities\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:06:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "School.Core\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "School.Core\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:59:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Base\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "School.Core\\Entities\\Base\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Base\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "School.Core\\Entities\\Base\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:59:56.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "School.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Api\\appsettings.json",
+              "RelativeToolTip": "School.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T08:29:55.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "School.Core\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\SchoolManagement\\School.Core\\Entities\\Teacher.cs",
+              "RelativeToolTip": "School.Core\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:06:26.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

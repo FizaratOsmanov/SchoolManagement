@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\bin\Debug\net8.0\School.Core.deps.json
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\bin\Debug\net8.0\School.Core.dll
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\bin\Debug\net8.0\School.Core.pdb
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\School.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\School.Core.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\School.Core.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\School.Core.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\School.Core.sourcelink.json
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\School.Core.dll
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\refint\School.Core.dll
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\School.Core.pdb
+C:\Users\LENOVO\source\repos\SchoolManagement\School.Core\obj\Debug\net8.0\ref\School.Core.dll
